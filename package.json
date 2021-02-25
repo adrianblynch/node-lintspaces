@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "merge": "^1.1.2",
+    "merge": "^2.1.1",
     "editorconfig": "^0.11.4"
   },
   "devDependencies": {
